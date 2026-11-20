@@ -3,7 +3,7 @@
   "id": "hidden_multikeys",
   "version": "${version}",
   "name": "FPS Plus",
-  "description": "Permette di associare più tasti alla stessa azione. La schermata si apre solo premendo K in Opzioni > Controlli > Associazione tasti.",
+  "description": "Improves FPS by avoiding the rendering of unnecessary entities and blocks that are not visible client-side",
   "authors": [],
   "license": "CC0-1.0",
   "environment": "client",
