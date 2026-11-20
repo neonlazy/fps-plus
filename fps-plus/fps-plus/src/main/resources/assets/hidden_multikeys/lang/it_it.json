@@ -1,0 +1,9 @@
+{
+  "hidden_multikeys.title": "Tasti aggiuntivi",
+  "hidden_multikeys.hint": "Clicca un tasto per cambiarlo, + per aggiungerne un altro. Backspace lo rimuove.",
+  "hidden_multikeys.listening": "Premi un tasto o un pulsante del mouse (Esc = annulla, Backspace = rimuovi)",
+  "hidden_multikeys.prev": "< Indietro",
+  "hidden_multikeys.next": "Avanti >",
+  "hidden_multikeys.done": "Fatto",
+  "hidden_multikeys.page": "Pagina %s/%s"
+}

@@ -1,0 +1,9 @@
+{
+  "hidden_multikeys.title": "Extra Key Bindings",
+  "hidden_multikeys.hint": "Click a key to change it, + to add another. Backspace removes.",
+  "hidden_multikeys.listening": "Press a key or mouse button (Esc = cancel, Backspace = remove)",
+  "hidden_multikeys.prev": "< Prev",
+  "hidden_multikeys.next": "Next >",
+  "hidden_multikeys.done": "Done",
+  "hidden_multikeys.page": "Page %s/%s"
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "hidden_multikeys",
+  "version": "${version}",
+  "name": "FPS Plus",
+  "description": "Permette di associare più tasti alla stessa azione. La schermata si apre solo premendo K in Opzioni > Controlli > Associazione tasti.",
+  "authors": [],
+  "license": "CC0-1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["it.hiddenmultikeys.HiddenMultiKeysClient"]
+  },
+  "mixins": [
+    { "config": "hidden_multikeys.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.17.3",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
